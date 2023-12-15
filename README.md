@@ -1,6 +1,4 @@
-install
-
-git clone https://github.com/Ningahak1/AHU1/commits?author=Ningahak1
+git clone https://github.com/Ningahak1/AHU
 
 cd AHU
 
